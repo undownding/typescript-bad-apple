@@ -2,6 +2,8 @@
 
 使用 [Sixel](https://en.wikipedia.org/wiki/Sixel) 图形技术在终端上播放 Bad Apple!! 的 TypeScript 实现。
 
+视频链接： https://www.bilibili.com/video/BV1neUdB7Erj/
+
 ## Requirements
 * Typescript >= 5
 * Node.js >= 18
