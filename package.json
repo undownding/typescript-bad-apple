@@ -1,0 +1,21 @@
+{
+  "name": "typescript-bad-apple",
+  "version": "1.0.0",
+  "description": "a TypeScript implementation of Bad Apple!! in the terminal",
+  "license": "WTFPL",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "private": false,
+  "dependencies": {
+    "audic": "^3.0.2",
+    "sharp": "^0.34.5",
+    "sixel": "^0.16.0"
+  }
+}
